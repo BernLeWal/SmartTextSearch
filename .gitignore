@@ -1,0 +1,8 @@
+.venv/
+
+## The dataset
+# Don't put documents used for the dataset in the git repo
+# Instead there is a 01_download-XYZ-files.cmd to do this
+docs/
+dataset/
+LHM_website_dataset/
